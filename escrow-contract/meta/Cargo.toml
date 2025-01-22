@@ -1,0 +1,11 @@
+[package]
+name = "escrow-contract-meta"
+version = "0.1.0"
+edition = "2021"
+publish = false
+
+[dev.dependencies]
+path = ".."
+
+[dependencies]
+multiversx-sc-meta = "0.55.0"

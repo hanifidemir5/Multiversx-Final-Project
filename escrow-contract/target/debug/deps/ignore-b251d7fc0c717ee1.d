@@ -1,0 +1,12 @@
+/home/hanifi/multiversx-final-project/escrow-contract/target/debug/deps/libignore-b251d7fc0c717ee1.rmeta: /home/hanifi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.23/src/lib.rs /home/hanifi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.23/src/default_types.rs /home/hanifi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.23/src/dir.rs /home/hanifi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.23/src/gitignore.rs /home/hanifi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.23/src/overrides.rs /home/hanifi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.23/src/pathutil.rs /home/hanifi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.23/src/types.rs /home/hanifi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.23/src/walk.rs
+
+/home/hanifi/multiversx-final-project/escrow-contract/target/debug/deps/ignore-b251d7fc0c717ee1.d: /home/hanifi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.23/src/lib.rs /home/hanifi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.23/src/default_types.rs /home/hanifi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.23/src/dir.rs /home/hanifi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.23/src/gitignore.rs /home/hanifi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.23/src/overrides.rs /home/hanifi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.23/src/pathutil.rs /home/hanifi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.23/src/types.rs /home/hanifi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.23/src/walk.rs
+
+/home/hanifi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.23/src/lib.rs:
+/home/hanifi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.23/src/default_types.rs:
+/home/hanifi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.23/src/dir.rs:
+/home/hanifi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.23/src/gitignore.rs:
+/home/hanifi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.23/src/overrides.rs:
+/home/hanifi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.23/src/pathutil.rs:
+/home/hanifi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.23/src/types.rs:
+/home/hanifi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ignore-0.4.23/src/walk.rs:
